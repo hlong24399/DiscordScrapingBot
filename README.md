@@ -1,2 +1,2 @@
 # DiscordScrapingBot
- This bot will scrape information about graphic cards and maybe other things.
+ This bot will scrape information about any things from Amazon and Newegg (Not worked if they add Capcha in the future)
